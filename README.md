@@ -14,7 +14,7 @@ Este proyecto es una aplicación de scraping construida con [NestJS](https://nes
 
 Para ejecutar este proyecto, necesitas tener instalados los siguientes elementos:
 
-1. **Node.js** (versión 14 o superior)
+1. **Node.js** (versión 20 o superior)
 2. **npm** (viene con Node.js) o **yarn** para gestionar dependencias.
 3. **NestJS CLI** (opcional, pero recomendado para desarrollo).
 
