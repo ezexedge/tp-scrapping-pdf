@@ -40,4 +40,6 @@ npm install -g @nestjs/cli
 
     npm run start:dev
 ```
+Esto iniciará el servidor de NestJS y ejecutará el servicio de scraping. Se generarán logs cada 5 segundos para indicar que el scraping está en curso. Al finalizar el proceso de scraping, se generará un archivo PDF en `reports/language_rankings.pdf`.
+
 
