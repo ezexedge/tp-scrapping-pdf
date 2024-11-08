@@ -22,18 +22,22 @@ Para instalar el CLI de NestJS:
 
 ```bash
 npm install -g @nestjs/cli
-
+```
 . **Clona el repositorio**:
+```bash
 
    git clone https://github.com/ezexedge/tp-scrapping-pdf.git
    cd tp-scrapping-pdf
+```
 
 2. Instala las dependencias:
+```bash
 
     npm install
-
+```
     Para ejecutar la aplicación en modo de desarrollo:
+```bash
 
     npm run start:dev
+```
 
-    ```
